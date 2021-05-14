@@ -29,4 +29,24 @@ docker rm es01-test
 docker rm kib01-test
 ```
 
+#### Usage 
 
+```
+ python3 twitterlize.py India
+ ```
+ 
+Kibana Dashboard : 
+
+ ```
+ localhost:5601 
+ #Create index for sentiment 
+ # View logs in discover 
+ ```
+ 
+ <img width="1171" alt="Screen Shot 2021-05-14 at 1 45 28 AM" src="https://user-images.githubusercontent.com/81785727/118245799-148e7680-b456-11eb-93e4-d88d705cde57.png">
+
+ 
+ <img width="1428" alt="Screen Shot 2021-05-14 at 1 44 06 AM" src="https://user-images.githubusercontent.com/81785727/118245695-f9236b80-b455-11eb-898b-046e4a8912bf.png">
+ 
+ 
+ 
