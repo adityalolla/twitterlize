@@ -71,7 +71,7 @@ if __name__ == '__main__':
     stream = Stream(auth, listener)
 
     # search twitter for "modi" keyword
-    stream.filter(track=['AskKTR'])
+    stream.filter(track=['Modi'])
 
 
     # Use this to ignore retweets
