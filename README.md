@@ -32,7 +32,7 @@ docker rm kib01-test
 #### Usage 
 
 ```
- python3 twitterlize.py India
+ python3 sentiment.py 
  ```
  
 Kibana Dashboard : 
