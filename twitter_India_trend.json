@@ -2,344 +2,204 @@
  {
   "trends": [
    {
-    "name": "#KshadyantraOnShemarooMe",
-    "url": "http://twitter.com/search?q=%23KshadyantraOnShemarooMe",
+    "name": "#HappyBirthdayMSDhoni",
+    "url": "http://twitter.com/search?q=%23HappyBirthdayMSDhoni",
     "promoted_content": null,
-    "query": "%23KshadyantraOnShemarooMe",
+    "query": "%23HappyBirthdayMSDhoni",
+    "tweet_volume": 26811
+   },
+   {
+    "name": "#ITAESP",
+    "url": "http://twitter.com/search?q=%23ITAESP",
+    "promoted_content": null,
+    "query": "%23ITAESP",
+    "tweet_volume": 299989
+   },
+   {
+    "name": "#captaincool",
+    "url": "http://twitter.com/search?q=%23captaincool",
+    "promoted_content": null,
+    "query": "%23captaincool",
     "tweet_volume": null
    },
    {
-    "name": "#RelianceAGM",
-    "url": "http://twitter.com/search?q=%23RelianceAGM",
+    "name": "Spain",
+    "url": "http://twitter.com/search?q=Spain",
     "promoted_content": null,
-    "query": "%23RelianceAGM",
+    "query": "Spain",
+    "tweet_volume": 379268
+   },
+   {
+    "name": "Morata",
+    "url": "http://twitter.com/search?q=Morata",
+    "promoted_content": null,
+    "query": "Morata",
+    "tweet_volume": 465144
+   },
+   {
+    "name": "Happy Birthday Legend",
+    "url": "http://twitter.com/search?q=%22Happy+Birthday+Legend%22",
+    "promoted_content": null,
+    "query": "%22Happy+Birthday+Legend%22",
+    "tweet_volume": 22302
+   },
+   {
+    "name": "Olmo",
+    "url": "http://twitter.com/search?q=Olmo",
+    "promoted_content": null,
+    "query": "Olmo",
+    "tweet_volume": 103930
+   },
+   {
+    "name": "Chiesa",
+    "url": "http://twitter.com/search?q=Chiesa",
+    "promoted_content": null,
+    "query": "Chiesa",
+    "tweet_volume": 176197
+   },
+   {
+    "name": "Rome",
+    "url": "http://twitter.com/search?q=Rome",
+    "promoted_content": null,
+    "query": "Rome",
+    "tweet_volume": 26068
+   },
+   {
+    "name": "Pedri",
+    "url": "http://twitter.com/search?q=Pedri",
+    "promoted_content": null,
+    "query": "Pedri",
+    "tweet_volume": 185376
+   },
+   {
+    "name": "Oyarzabal",
+    "url": "http://twitter.com/search?q=Oyarzabal",
+    "promoted_content": null,
+    "query": "Oyarzabal",
+    "tweet_volume": 44783
+   },
+   {
+    "name": "Ministry of Co-operation",
+    "url": "http://twitter.com/search?q=%22Ministry+of+Co-operation%22",
+    "promoted_content": null,
+    "query": "%22Ministry+of+Co-operation%22",
     "tweet_volume": null
    },
    {
-    "name": "#5MIGPostsForShehnaaz",
-    "url": "http://twitter.com/search?q=%235MIGPostsForShehnaaz",
+    "name": "5YRS OF MAJESTIC SULTAN",
+    "url": "http://twitter.com/search?q=%225YRS+OF+MAJESTIC+SULTAN%22",
     "promoted_content": null,
-    "query": "%235MIGPostsForShehnaaz",
-    "tweet_volume": 215785
+    "query": "%225YRS+OF+MAJESTIC+SULTAN%22",
+    "tweet_volume": 196808
    },
    {
-    "name": "hobi",
-    "url": "http://twitter.com/search?q=hobi",
+    "name": "We Boycott Bollystars Brands",
+    "url": "http://twitter.com/search?q=%22We+Boycott+Bollystars+Brands%22",
     "promoted_content": null,
-    "query": "hobi",
-    "tweet_volume": 150403
+    "query": "%22We+Boycott+Bollystars+Brands%22",
+    "tweet_volume": 93268
    },
    {
-    "name": "CBI Grill Khatri 4 Sushant",
-    "url": "http://twitter.com/search?q=%22CBI+Grill+Khatri+4+Sushant%22",
+    "name": "Enrique",
+    "url": "http://twitter.com/search?q=Enrique",
     "promoted_content": null,
-    "query": "%22CBI+Grill+Khatri+4+Sushant%22",
-    "tweet_volume": 97795
+    "query": "Enrique",
+    "tweet_volume": 118684
    },
    {
-    "name": "JUNG HOSEOK",
-    "url": "http://twitter.com/search?q=%22JUNG+HOSEOK%22",
+    "name": "Argentina",
+    "url": "http://twitter.com/search?q=Argentina",
     "promoted_content": null,
-    "query": "%22JUNG+HOSEOK%22",
-    "tweet_volume": 98667
+    "query": "Argentina",
+    "tweet_volume": 266267
    },
    {
-    "name": "RENJUN",
-    "url": "http://twitter.com/search?q=RENJUN",
+    "name": "Alba",
+    "url": "http://twitter.com/search?q=Alba",
     "promoted_content": null,
-    "query": "RENJUN",
-    "tweet_volume": 389711
+    "query": "Alba",
+    "tweet_volume": 62664
    },
    {
-    "name": "\u0915\u092c\u0940\u0930 \u0926\u093e\u0938",
-    "url": "http://twitter.com/search?q=%22%E0%A4%95%E0%A4%AC%E0%A5%80%E0%A4%B0+%E0%A4%A6%E0%A4%BE%E0%A4%B8%22",
+    "name": "Simon",
+    "url": "http://twitter.com/search?q=Simon",
     "promoted_content": null,
-    "query": "%22%E0%A4%95%E0%A4%AC%E0%A5%80%E0%A4%B0+%E0%A4%A6%E0%A4%BE%E0%A4%B8%22",
-    "tweet_volume": 25274
+    "query": "Simon",
+    "tweet_volume": 142605
    },
    {
-    "name": "Kunal Kamra",
-    "url": "http://twitter.com/search?q=%22Kunal+Kamra%22",
+    "name": "Wembley",
+    "url": "http://twitter.com/search?q=Wembley",
     "promoted_content": null,
-    "query": "%22Kunal+Kamra%22",
+    "query": "Wembley",
+    "tweet_volume": 179239
+   },
+   {
+    "name": "#WednesdayMotivation",
+    "url": "http://twitter.com/search?q=%23WednesdayMotivation",
+    "promoted_content": null,
+    "query": "%23WednesdayMotivation",
     "tweet_volume": null
    },
    {
-    "name": "WE LOVE YOU RUSHA",
-    "url": "http://twitter.com/search?q=%22WE+LOVE+YOU+RUSHA%22",
+    "name": "#GodMorningWednesday",
+    "url": "http://twitter.com/search?q=%23GodMorningWednesday",
     "promoted_content": null,
-    "query": "%22WE+LOVE+YOU+RUSHA%22",
+    "query": "%23GodMorningWednesday",
     "tweet_volume": null
    },
    {
-    "name": "Sri Chaitanya Group",
-    "url": "http://twitter.com/search?q=%22Sri+Chaitanya+Group%22",
+    "name": "#MSDians",
+    "url": "http://twitter.com/search?q=%23MSDians",
     "promoted_content": null,
-    "query": "%22Sri+Chaitanya+Group%22",
+    "query": "%23MSDians",
     "tweet_volume": null
    },
    {
-    "name": "JISOOxDIOR FOR ELLE INDIA",
-    "url": "http://twitter.com/search?q=%22JISOOxDIOR+FOR+ELLE+INDIA%22",
+    "name": "#ESPITA",
+    "url": "http://twitter.com/search?q=%23ESPITA",
     "promoted_content": null,
-    "query": "%22JISOOxDIOR+FOR+ELLE+INDIA%22",
-    "tweet_volume": 34304
+    "query": "%23ESPITA",
+    "tweet_volume": 10816
    },
    {
-    "name": "Active Noise Cancellation",
-    "url": "http://twitter.com/search?q=%22Active+Noise+Cancellation%22",
+    "name": "#ITASPA",
+    "url": "http://twitter.com/search?q=%23ITASPA",
     "promoted_content": null,
-    "query": "%22Active+Noise+Cancellation%22",
-    "tweet_volume": null
+    "query": "%23ITASPA",
+    "tweet_volume": 42057
    },
    {
-    "name": "Full HD Smart TV",
-    "url": "http://twitter.com/search?q=%22Full+HD+Smart+TV%22",
+    "name": "#CopaAmerica",
+    "url": "http://twitter.com/search?q=%23CopaAmerica",
     "promoted_content": null,
-    "query": "%22Full+HD+Smart+TV%22",
-    "tweet_volume": null
+    "query": "%23CopaAmerica",
+    "tweet_volume": 46589
    },
    {
-    "name": "Dhruwal",
-    "url": "http://twitter.com/search?q=Dhruwal",
+    "name": "#Butter6thNo1OnHot100",
+    "url": "http://twitter.com/search?q=%23Butter6thNo1OnHot100",
     "promoted_content": null,
-    "query": "Dhruwal",
-    "tweet_volume": null
+    "query": "%23Butter6thNo1OnHot100",
+    "tweet_volume": 609490
    },
    {
-    "name": "New York Times",
-    "url": "http://twitter.com/search?q=%22New+York+Times%22",
+    "name": "#LambdaVariant",
+    "url": "http://twitter.com/search?q=%23LambdaVariant",
     "promoted_content": null,
-    "query": "%22New+York+Times%22",
-    "tweet_volume": 29409
+    "query": "%23LambdaVariant",
+    "tweet_volume": 18168
    },
    {
-    "name": "Jai Jagannath",
-    "url": "http://twitter.com/search?q=%22Jai+Jagannath%22",
+    "name": "#WhistlePodu",
+    "url": "http://twitter.com/search?q=%23WhistlePodu",
     "promoted_content": null,
-    "query": "%22Jai+Jagannath%22",
-    "tweet_volume": null
-   },
-   {
-    "name": "\u092e\u0939\u093e\u0928 \u0915\u0935\u093f",
-    "url": "http://twitter.com/search?q=%22%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A8+%E0%A4%95%E0%A4%B5%E0%A4%BF%22",
-    "promoted_content": null,
-    "query": "%22%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A8+%E0%A4%95%E0%A4%B5%E0%A4%BF%22",
-    "tweet_volume": null
-   },
-   {
-    "name": "Navi Mumbai",
-    "url": "http://twitter.com/search?q=%22Navi+Mumbai%22",
-    "promoted_content": null,
-    "query": "%22Navi+Mumbai%22",
-    "tweet_volume": null
-   },
-   {
-    "name": "EdTech",
-    "url": "http://twitter.com/search?q=EdTech",
-    "promoted_content": null,
-    "query": "EdTech",
-    "tweet_volume": null
-   },
-   {
-    "name": "90Hz Ultra Smooth Display",
-    "url": "http://twitter.com/search?q=%2290Hz+Ultra+Smooth+Display%22",
-    "promoted_content": null,
-    "query": "%2290Hz+Ultra+Smooth+Display%22",
-    "tweet_volume": null
-   },
-   {
-    "name": "Jamsetji Tata",
-    "url": "http://twitter.com/search?q=%22Jamsetji+Tata%22",
-    "promoted_content": null,
-    "query": "%22Jamsetji+Tata%22",
-    "tweet_volume": null
-   },
-   {
-    "name": "Popular",
-    "url": "http://twitter.com/search?q=Popular",
-    "promoted_content": null,
-    "query": "Popular",
-    "tweet_volume": 184538
-   },
-   {
-    "name": "Kashi",
-    "url": "http://twitter.com/search?q=Kashi",
-    "promoted_content": null,
-    "query": "Kashi",
-    "tweet_volume": 101724
-   },
-   {
-    "name": "Surat",
-    "url": "http://twitter.com/search?q=Surat",
-    "promoted_content": null,
-    "query": "Surat",
-    "tweet_volume": 24871
-   },
-   {
-    "name": "Lahartara",
-    "url": "http://twitter.com/search?q=Lahartara",
-    "promoted_content": null,
-    "query": "Lahartara",
-    "tweet_volume": 37025
-   },
-   {
-    "name": "When Lord Kabir",
-    "url": "http://twitter.com/search?q=%22When+Lord+Kabir%22",
-    "promoted_content": null,
-    "query": "%22When+Lord+Kabir%22",
-    "tweet_volume": 45521
-   },
-   {
-    "name": "\u0915\u092c\u0940\u0930 \u0938\u093e\u0939\u0947\u092c",
-    "url": "http://twitter.com/search?q=%22%E0%A4%95%E0%A4%AC%E0%A5%80%E0%A4%B0+%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%AC%22",
-    "promoted_content": null,
-    "query": "%22%E0%A4%95%E0%A4%AC%E0%A5%80%E0%A4%B0+%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%AC%22",
-    "tweet_volume": 96179
-   },
-   {
-    "name": "\u0936\u094d\u0930\u0940 \u0939\u0930\u093f",
-    "url": "http://twitter.com/search?q=%22%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B9%E0%A4%B0%E0%A4%BF%22",
-    "promoted_content": null,
-    "query": "%22%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B9%E0%A4%B0%E0%A4%BF%22",
-    "tweet_volume": 19683
-   },
-   {
-    "name": "Philippines",
-    "url": "http://twitter.com/search?q=Philippines",
-    "promoted_content": null,
-    "query": "Philippines",
-    "tweet_volume": 51825
-   },
-   {
-    "name": "Jyeshtha",
-    "url": "http://twitter.com/search?q=Jyeshtha",
-    "promoted_content": null,
-    "query": "Jyeshtha",
-    "tweet_volume": 18558
-   },
-   {
-    "name": "#InfinityLearn",
-    "url": "http://twitter.com/search?q=%23InfinityLearn",
-    "promoted_content": null,
-    "query": "%23InfinityLearn",
-    "tweet_volume": null
-   },
-   {
-    "name": "#WeLoveModiJi",
-    "url": "http://twitter.com/search?q=%23WeLoveModiJi",
-    "promoted_content": null,
-    "query": "%23WeLoveModiJi",
-    "tweet_volume": 30788
-   },
-   {
-    "name": "#Invaluables",
-    "url": "http://twitter.com/search?q=%23Invaluables",
-    "promoted_content": null,
-    "query": "%23Invaluables",
-    "tweet_volume": null
-   },
-   {
-    "name": "#4LakhJumlaTha",
-    "url": "http://twitter.com/search?q=%234LakhJumlaTha",
-    "promoted_content": null,
-    "query": "%234LakhJumlaTha",
-    "tweet_volume": 30338
-   },
-   {
-    "name": "#upGradMBA",
-    "url": "http://twitter.com/search?q=%23upGradMBA",
-    "promoted_content": null,
-    "query": "%23upGradMBA",
-    "tweet_volume": null
-   },
-   {
-    "name": "#Messi34",
-    "url": "http://twitter.com/search?q=%23Messi34",
-    "promoted_content": null,
-    "query": "%23Messi34",
-    "tweet_volume": 35118
-   },
-   {
-    "name": "#RILAGM",
-    "url": "http://twitter.com/search?q=%23RILAGM",
-    "promoted_content": null,
-    "query": "%23RILAGM",
-    "tweet_volume": null
-   },
-   {
-    "name": "#WeLoveIndia",
-    "url": "http://twitter.com/search?q=%23WeLoveIndia",
-    "promoted_content": null,
-    "query": "%23WeLoveIndia",
-    "tweet_volume": null
-   },
-   {
-    "name": "#realmeBudsQ2",
-    "url": "http://twitter.com/search?q=%23realmeBudsQ2",
-    "promoted_content": null,
-    "query": "%23realmeBudsQ2",
-    "tweet_volume": null
-   },
-   {
-    "name": "#BlackDayForJammu",
-    "url": "http://twitter.com/search?q=%23BlackDayForJammu",
-    "promoted_content": null,
-    "query": "%23BlackDayForJammu",
-    "tweet_volume": null
-   },
-   {
-    "name": "#thursdayvibes",
-    "url": "http://twitter.com/search?q=%23thursdayvibes",
-    "promoted_content": null,
-    "query": "%23thursdayvibes",
-    "tweet_volume": null
-   },
-   {
-    "name": "#NoiseOffPowerOn",
-    "url": "http://twitter.com/search?q=%23NoiseOffPowerOn",
-    "promoted_content": null,
-    "query": "%23NoiseOffPowerOn",
-    "tweet_volume": null
-   },
-   {
-    "name": "#thursdaymorning",
-    "url": "http://twitter.com/search?q=%23thursdaymorning",
-    "promoted_content": null,
-    "query": "%23thursdaymorning",
-    "tweet_volume": 14529
-   },
-   {
-    "name": "#MukeshAmbani",
-    "url": "http://twitter.com/search?q=%23MukeshAmbani",
-    "promoted_content": null,
-    "query": "%23MukeshAmbani",
-    "tweet_volume": null
-   },
-   {
-    "name": "#\u092e\u094b\u0926\u0940_\u0915\u0940_\u0932\u0902\u0915\u093e_\u0915\u093f\u0938\u093e\u0928_\u0915\u093e_\u0921\u0902\u0915\u093e",
-    "url": "http://twitter.com/search?q=%23%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80_%E0%A4%95%E0%A5%80_%E0%A4%B2%E0%A4%82%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8_%E0%A4%95%E0%A4%BE_%E0%A4%A1%E0%A4%82%E0%A4%95%E0%A4%BE",
-    "promoted_content": null,
-    "query": "%23%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80_%E0%A4%95%E0%A5%80_%E0%A4%B2%E0%A4%82%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8_%E0%A4%95%E0%A4%BE_%E0%A4%A1%E0%A4%82%E0%A4%95%E0%A4%BE",
-    "tweet_volume": 106500
-   },
-   {
-    "name": "#captaincy",
-    "url": "http://twitter.com/search?q=%23captaincy",
-    "promoted_content": null,
-    "query": "%23captaincy",
-    "tweet_volume": 20094
-   },
-   {
-    "name": "#GOAT",
-    "url": "http://twitter.com/search?q=%23GOAT",
-    "promoted_content": null,
-    "query": "%23GOAT",
-    "tweet_volume": null
+    "query": "%23WhistlePodu",
+    "tweet_volume": 27289
    }
   ],
-  "as_of": "2021-06-24T09:05:55Z",
-  "created_at": "2021-06-23T17:01:16Z",
+  "as_of": "2021-07-07T01:17:26Z",
+  "created_at": "2021-07-05T09:56:13Z",
   "locations": [
    {
     "name": "Nagpur",
