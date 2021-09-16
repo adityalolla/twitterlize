@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "California",
+    "url": "http://twitter.com/search?q=California",
+    "promoted_content": null,
+    "query": "California",
+    "tweet_volume": 686303
+   },
+   {
+    "name": "#AEWDynamite",
+    "url": "http://twitter.com/search?q=%23AEWDynamite",
+    "promoted_content": null,
+    "query": "%23AEWDynamite",
+    "tweet_volume": 25208
+   },
+   {
+    "name": "#Inspiration4",
+    "url": "http://twitter.com/search?q=%23Inspiration4",
+    "promoted_content": null,
+    "query": "%23Inspiration4",
+    "tweet_volume": 28127
+   },
+   {
+    "name": "#SpaceX",
+    "url": "http://twitter.com/search?q=%23SpaceX",
+    "promoted_content": null,
+    "query": "%23SpaceX",
+    "tweet_volume": 12283
+   },
+   {
+    "name": "#MAFS",
+    "url": "http://twitter.com/search?q=%23MAFS",
+    "promoted_content": null,
+    "query": "%23MAFS",
+    "tweet_volume": null
+   },
+   {
+    "name": "Nicki",
+    "url": "http://twitter.com/search?q=Nicki",
+    "promoted_content": null,
+    "query": "Nicki",
+    "tweet_volume": 211092
+   },
+   {
+    "name": "#MarriedAtFirstSight",
+    "url": "http://twitter.com/search?q=%23MarriedAtFirstSight",
+    "promoted_content": null,
+    "query": "%23MarriedAtFirstSight",
+    "tweet_volume": null
+   },
+   {
+    "name": "Festus",
+    "url": "http://twitter.com/search?q=Festus",
+    "promoted_content": null,
+    "query": "Festus",
+    "tweet_volume": null
+   },
+   {
+    "name": "Yom Kippur",
+    "url": "http://twitter.com/search?q=%22Yom+Kippur%22",
+    "promoted_content": null,
+    "query": "%22Yom+Kippur%22",
+    "tweet_volume": 31889
+   },
+   {
+    "name": "Michaela",
+    "url": "http://twitter.com/search?q=Michaela",
+    "promoted_content": null,
+    "query": "Michaela",
+    "tweet_volume": null
+   },
+   {
+    "name": "toby fox",
+    "url": "http://twitter.com/search?q=%22toby+fox%22",
+    "promoted_content": null,
+    "query": "%22toby+fox%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Mauricio",
+    "url": "http://twitter.com/search?q=Mauricio",
+    "promoted_content": null,
+    "query": "Mauricio",
+    "tweet_volume": 23793
+   },
+   {
+    "name": "Tucker Carlson",
+    "url": "http://twitter.com/search?q=%22Tucker+Carlson%22",
+    "promoted_content": null,
+    "query": "%22Tucker+Carlson%22",
+    "tweet_volume": 29538
+   },
+   {
+    "name": "Pillman",
+    "url": "http://twitter.com/search?q=Pillman",
+    "promoted_content": null,
+    "query": "Pillman",
+    "tweet_volume": null
+   },
+   {
+    "name": "hasan",
+    "url": "http://twitter.com/search?q=hasan",
+    "promoted_content": null,
+    "query": "hasan",
+    "tweet_volume": 25298
+   },
+   {
+    "name": "Chester",
+    "url": "http://twitter.com/search?q=Chester",
+    "promoted_content": null,
+    "query": "Chester",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cedric Mullins",
+    "url": "http://twitter.com/search?q=%22Cedric+Mullins%22",
+    "promoted_content": null,
+    "query": "%22Cedric+Mullins%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Esther",
+    "url": "http://twitter.com/search?q=Esther",
+    "promoted_content": null,
+    "query": "Esther",
+    "tweet_volume": 15087
+   },
+   {
+    "name": "Kazarian",
+    "url": "http://twitter.com/search?q=Kazarian",
+    "promoted_content": null,
+    "query": "Kazarian",
+    "tweet_volume": null
+   },
+   {
+    "name": "Nestor",
+    "url": "http://twitter.com/search?q=Nestor",
+    "promoted_content": null,
+    "query": "Nestor",
+    "tweet_volume": 11282
+   },
+   {
+    "name": "madelyn",
+    "url": "http://twitter.com/search?q=madelyn",
+    "promoted_content": null,
+    "query": "madelyn",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kyrie",
+    "url": "http://twitter.com/search?q=Kyrie",
+    "promoted_content": null,
+    "query": "Kyrie",
+    "tweet_volume": 13391
+   },
+   {
+    "name": "Marwin",
+    "url": "http://twitter.com/search?q=Marwin",
+    "promoted_content": null,
+    "query": "Marwin",
+    "tweet_volume": null
+   },
+   {
+    "name": "Josef",
+    "url": "http://twitter.com/search?q=Josef",
+    "promoted_content": null,
+    "query": "Josef",
+    "tweet_volume": null
+   },
+   {
+    "name": "Nany",
+    "url": "http://twitter.com/search?q=Nany",
+    "promoted_content": null,
+    "query": "Nany",
+    "tweet_volume": null
+   },
+   {
+    "name": "DeMarcus Lawrence",
+    "url": "http://twitter.com/search?q=%22DeMarcus+Lawrence%22",
+    "promoted_content": null,
+    "query": "%22DeMarcus+Lawrence%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Latinx",
+    "url": "http://twitter.com/search?q=Latinx",
+    "promoted_content": null,
+    "query": "Latinx",
+    "tweet_volume": 23970
+   },
+   {
+    "name": "Occupy Democrats",
+    "url": "http://twitter.com/search?q=%22Occupy+Democrats%22",
+    "promoted_content": null,
+    "query": "%22Occupy+Democrats%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "3d toriel",
+    "url": "http://twitter.com/search?q=%223d+toriel%22",
+    "promoted_content": null,
+    "query": "%223d+toriel%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Meek",
+    "url": "http://twitter.com/search?q=Meek",
+    "promoted_content": null,
+    "query": "Meek",
+    "tweet_volume": 11001
+   },
+   {
+    "name": "Jon Lester",
+    "url": "http://twitter.com/search?q=%22Jon+Lester%22",
+    "promoted_content": null,
+    "query": "%22Jon+Lester%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Falcon 9",
+    "url": "http://twitter.com/search?q=%22Falcon+9%22",
+    "promoted_content": null,
+    "query": "%22Falcon+9%22",
+    "tweet_volume": 25146
+   },
+   {
+    "name": "ADAM COLE BAY BAY",
+    "url": "http://twitter.com/search?q=%22ADAM+COLE+BAY+BAY%22",
+    "promoted_content": null,
+    "query": "%22ADAM+COLE+BAY+BAY%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Tobago",
+    "url": "http://twitter.com/search?q=Tobago",
+    "promoted_content": null,
+    "query": "Tobago",
+    "tweet_volume": 18923
+   },
+   {
+    "name": "Chuck Berry",
+    "url": "http://twitter.com/search?q=%22Chuck+Berry%22",
+    "promoted_content": null,
+    "query": "%22Chuck+Berry%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Megill",
+    "url": "http://twitter.com/search?q=Megill",
+    "promoted_content": null,
+    "query": "Megill",
+    "tweet_volume": null
+   },
+   {
+    "name": "I Love Jesus",
+    "url": "http://twitter.com/search?q=%22I+Love+Jesus%22",
+    "promoted_content": null,
+    "query": "%22I+Love+Jesus%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Brugge",
+    "url": "http://twitter.com/search?q=Brugge",
+    "promoted_content": null,
+    "query": "Brugge",
+    "tweet_volume": 92275
+   },
+   {
+    "name": "Wray",
+    "url": "http://twitter.com/search?q=Wray",
+    "promoted_content": null,
+    "query": "Wray",
+    "tweet_volume": 80089
+   },
+   {
+    "name": "Camavinga",
+    "url": "http://twitter.com/search?q=Camavinga",
+    "promoted_content": null,
+    "query": "Camavinga",
+    "tweet_volume": 67622
+   },
+   {
+    "name": "Kaycee",
+    "url": "http://twitter.com/search?q=Kaycee",
+    "promoted_content": null,
+    "query": "Kaycee",
+    "tweet_volume": null
+   },
+   {
+    "name": "G'mar Chatima Tovah",
+    "url": "http://twitter.com/search?q=%22G%27mar+Chatima+Tovah%22",
+    "promoted_content": null,
+    "query": "%22G%27mar+Chatima+Tovah%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Myrla",
+    "url": "http://twitter.com/search?q=Myrla",
+    "promoted_content": null,
+    "query": "Myrla",
+    "tweet_volume": null
+   },
+   {
+    "name": "Deltarune",
+    "url": "http://twitter.com/search?q=Deltarune",
+    "promoted_content": null,
+    "query": "Deltarune",
+    "tweet_volume": 17032
+   },
+   {
+    "name": "Roberto Clemente",
+    "url": "http://twitter.com/search?q=%22Roberto+Clemente%22",
+    "promoted_content": null,
+    "query": "%22Roberto+Clemente%22",
+    "tweet_volume": 14098
+   },
+   {
+    "name": "Christian Cage",
+    "url": "http://twitter.com/search?q=%22Christian+Cage%22",
+    "promoted_content": null,
+    "query": "%22Christian+Cage%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "The Bodyguard",
+    "url": "http://twitter.com/search?q=%22The+Bodyguard%22",
+    "promoted_content": null,
+    "query": "%22The+Bodyguard%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "bader",
+    "url": "http://twitter.com/search?q=bader",
+    "promoted_content": null,
+    "query": "bader",
+    "tweet_volume": null
+   },
+   {
+    "name": "Chris Livingston",
+    "url": "http://twitter.com/search?q=%22Chris+Livingston%22",
+    "promoted_content": null,
+    "query": "%22Chris+Livingston%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "AUKUS",
+    "url": "http://twitter.com/search?q=AUKUS",
+    "promoted_content": null,
+    "query": "AUKUS",
+    "tweet_volume": 10938
+   }
+  ],
+  "as_of": "2021-09-16T00:34:57Z",
+  "created_at": "2021-09-13T17:06:36Z",
+  "locations": [
+   {
+    "name": "Denver",
+    "woeid": 2391279
+   }
+  ]
+ }
+]
