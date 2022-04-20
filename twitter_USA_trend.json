@@ -2,358 +2,358 @@
  {
   "trends": [
    {
-    "name": "#tuesdayvibe",
-    "url": "http://twitter.com/search?q=%23tuesdayvibe",
+    "name": "Disney",
+    "url": "http://twitter.com/search?q=Disney",
     "promoted_content": null,
-    "query": "%23tuesdayvibe",
-    "tweet_volume": 13346
+    "query": "Disney",
+    "tweet_volume": 298675
    },
    {
-    "name": "Wordle 283 X",
-    "url": "http://twitter.com/search?q=%22Wordle+283+X%22",
+    "name": "DeSantis",
+    "url": "http://twitter.com/search?q=DeSantis",
     "promoted_content": null,
-    "query": "%22Wordle+283+X%22",
+    "query": "DeSantis",
+    "tweet_volume": 198061
+   },
+   {
+    "name": "Pelicans",
+    "url": "http://twitter.com/search?q=Pelicans",
+    "promoted_content": null,
+    "query": "Pelicans",
+    "tweet_volume": 24219
+   },
+   {
+    "name": "Booker",
+    "url": "http://twitter.com/search?q=Booker",
+    "promoted_content": null,
+    "query": "Booker",
+    "tweet_volume": 58134
+   },
+   {
+    "name": "Brandon Ingram",
+    "url": "http://twitter.com/search?q=%22Brandon+Ingram%22",
+    "promoted_content": null,
+    "query": "%22Brandon+Ingram%22",
+    "tweet_volume": 10660
+   },
+   {
+    "name": "Scott Foster",
+    "url": "http://twitter.com/search?q=%22Scott+Foster%22",
+    "promoted_content": null,
+    "query": "%22Scott+Foster%22",
+    "tweet_volume": 13053
+   },
+   {
+    "name": "Pels",
+    "url": "http://twitter.com/search?q=Pels",
+    "promoted_content": null,
+    "query": "Pels",
+    "tweet_volume": 11925
+   },
+   {
+    "name": "Kenley",
+    "url": "http://twitter.com/search?q=Kenley",
+    "promoted_content": null,
+    "query": "Kenley",
     "tweet_volume": null
    },
    {
-    "name": "#GetWellSoonJungkook",
-    "url": "http://twitter.com/search?q=%23GetWellSoonJungkook",
+    "name": "Max Fried",
+    "url": "http://twitter.com/search?q=%22Max+Fried%22",
     "promoted_content": null,
-    "query": "%23GetWellSoonJungkook",
-    "tweet_volume": 360909
-   },
-   {
-    "name": "#tuesdaymotivations",
-    "url": "http://twitter.com/search?q=%23tuesdaymotivations",
-    "promoted_content": null,
-    "query": "%23tuesdaymotivations",
-    "tweet_volume": 29447
-   },
-   {
-    "name": "Nixon",
-    "url": "http://twitter.com/search?q=Nixon",
-    "promoted_content": null,
-    "query": "Nixon",
-    "tweet_volume": 17142
-   },
-   {
-    "name": "Mick Mulvaney",
-    "url": "http://twitter.com/search?q=%22Mick+Mulvaney%22",
-    "promoted_content": null,
-    "query": "%22Mick+Mulvaney%22",
+    "query": "%22Max+Fried%22",
     "tweet_volume": null
    },
    {
-    "name": "PS Now",
-    "url": "http://twitter.com/search?q=%22PS+Now%22",
+    "name": "D Book",
+    "url": "http://twitter.com/search?q=%22D+Book%22",
     "promoted_content": null,
-    "query": "%22PS+Now%22",
+    "query": "%22D+Book%22",
+    "tweet_volume": 11920
+   },
+   {
+    "name": "Jimmy Butler",
+    "url": "http://twitter.com/search?q=%22Jimmy+Butler%22",
+    "promoted_content": null,
+    "query": "%22Jimmy+Butler%22",
+    "tweet_volume": 30683
+   },
+   {
+    "name": "#ThisIsUs",
+    "url": "http://twitter.com/search?q=%23ThisIsUs",
+    "promoted_content": null,
+    "query": "%23ThisIsUs",
+    "tweet_volume": 12057
+   },
+   {
+    "name": "Chris Paul",
+    "url": "http://twitter.com/search?q=%22Chris+Paul%22",
+    "promoted_content": null,
+    "query": "%22Chris+Paul%22",
+    "tweet_volume": 13067
+   },
+   {
+    "name": "#NOPvsPHX",
+    "url": "http://twitter.com/search?q=%23NOPvsPHX",
+    "promoted_content": null,
+    "query": "%23NOPvsPHX",
     "tweet_volume": null
    },
    {
-    "name": "PS Plus",
-    "url": "http://twitter.com/search?q=%22PS+Plus%22",
+    "name": "Happy 420",
+    "url": "http://twitter.com/search?q=%22Happy+420%22",
     "promoted_content": null,
-    "query": "%22PS+Plus%22",
-    "tweet_volume": 17218
-   },
-   {
-    "name": "Game Pass",
-    "url": "http://twitter.com/search?q=%22Game+Pass%22",
-    "promoted_content": null,
-    "query": "%22Game+Pass%22",
-    "tweet_volume": 13553
-   },
-   {
-    "name": "#ThingsYouShouldNeverDoAtWork",
-    "url": "http://twitter.com/search?q=%23ThingsYouShouldNeverDoAtWork",
-    "promoted_content": null,
-    "query": "%23ThingsYouShouldNeverDoAtWork",
+    "query": "%22Happy+420%22",
     "tweet_volume": null
    },
    {
-    "name": "PS3 games",
-    "url": "http://twitter.com/search?q=%22PS3+games%22",
+    "name": "Crowder",
+    "url": "http://twitter.com/search?q=Crowder",
     "promoted_content": null,
-    "query": "%22PS3+games%22",
+    "query": "Crowder",
     "tweet_volume": null
    },
    {
-    "name": "#VietnamVeteransDay",
-    "url": "http://twitter.com/search?q=%23VietnamVeteransDay",
+    "name": "#MayansFX",
+    "url": "http://twitter.com/search?q=%23MayansFX",
     "promoted_content": null,
-    "query": "%23VietnamVeteransDay",
+    "query": "%23MayansFX",
     "tweet_volume": null
    },
    {
-    "name": "PlayStation Plus",
-    "url": "http://twitter.com/search?q=%22PlayStation+Plus%22",
+    "name": "Jaxson Hayes",
+    "url": "http://twitter.com/search?q=%22Jaxson+Hayes%22",
     "promoted_content": null,
-    "query": "%22PlayStation+Plus%22",
-    "tweet_volume": 23552
-   },
-   {
-    "name": "Rosemary Woods",
-    "url": "http://twitter.com/search?q=%22Rosemary+Woods%22",
-    "promoted_content": null,
-    "query": "%22Rosemary+Woods%22",
+    "query": "%22Jaxson+Hayes%22",
     "tweet_volume": null
    },
    {
-    "name": "Good Tuesday",
-    "url": "http://twitter.com/search?q=%22Good+Tuesday%22",
+    "name": "#GoKingsGo",
+    "url": "http://twitter.com/search?q=%23GoKingsGo",
     "promoted_content": null,
-    "query": "%22Good+Tuesday%22",
-    "tweet_volume": 24629
-   },
-   {
-    "name": "Jim Ryan",
-    "url": "http://twitter.com/search?q=%22Jim+Ryan%22",
-    "promoted_content": null,
-    "query": "%22Jim+Ryan%22",
+    "query": "%23GoKingsGo",
     "tweet_volume": null
    },
    {
-    "name": "Kyiv and Chernihiv",
-    "url": "http://twitter.com/search?q=%22Kyiv+and+Chernihiv%22",
+    "name": "Willie Green",
+    "url": "http://twitter.com/search?q=%22Willie+Green%22",
     "promoted_content": null,
-    "query": "%22Kyiv+and+Chernihiv%22",
+    "query": "%22Willie+Green%22",
     "tweet_volume": null
    },
    {
-    "name": "Watergate",
-    "url": "http://twitter.com/search?q=Watergate",
+    "name": "Tender",
+    "url": "http://twitter.com/search?q=Tender",
     "promoted_content": null,
-    "query": "Watergate",
+    "query": "Tender",
+    "tweet_volume": 22220
+   },
+   {
+    "name": "Mookie",
+    "url": "http://twitter.com/search?q=Mookie",
+    "promoted_content": null,
+    "query": "Mookie",
     "tweet_volume": null
    },
    {
-    "name": "CBS News",
-    "url": "http://twitter.com/search?q=%22CBS+News%22",
+    "name": "#RHONJ",
+    "url": "http://twitter.com/search?q=%23RHONJ",
     "promoted_content": null,
-    "query": "%22CBS+News%22",
+    "query": "%23RHONJ",
     "tweet_volume": null
    },
    {
-    "name": "PS2 and PSP",
-    "url": "http://twitter.com/search?q=%22PS2+and+PSP%22",
+    "name": "Lonely",
+    "url": "http://twitter.com/search?q=Lonely",
     "promoted_content": null,
-    "query": "%22PS2+and+PSP%22",
+    "query": "Lonely",
+    "tweet_volume": 61678
+   },
+   {
+    "name": "Grizzlies",
+    "url": "http://twitter.com/search?q=Grizzlies",
+    "promoted_content": null,
+    "query": "Grizzlies",
+    "tweet_volume": 20448
+   },
+   {
+    "name": "Jimmy Buckets",
+    "url": "http://twitter.com/search?q=%22Jimmy+Buckets%22",
+    "promoted_content": null,
+    "query": "%22Jimmy+Buckets%22",
     "tweet_volume": null
    },
    {
-    "name": "Premium",
-    "url": "http://twitter.com/search?q=Premium",
+    "name": "Sunny D",
+    "url": "http://twitter.com/search?q=%22Sunny+D%22",
     "promoted_content": null,
-    "query": "Premium",
-    "tweet_volume": 159034
+    "query": "%22Sunny+D%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Daily Quordle 86",
+    "url": "http://twitter.com/search?q=%22Daily+Quordle+86%22",
+    "promoted_content": null,
+    "query": "%22Daily+Quordle+86%22",
+    "tweet_volume": null
    },
    {
     "name": "Ezra Miller",
     "url": "http://twitter.com/search?q=%22Ezra+Miller%22",
     "promoted_content": null,
     "query": "%22Ezra+Miller%22",
-    "tweet_volume": 17698
+    "tweet_volume": 47365
    },
    {
-    "name": "PS3 emulation",
-    "url": "http://twitter.com/search?q=%22PS3+emulation%22",
+    "name": "Jonathan Quick",
+    "url": "http://twitter.com/search?q=%22Jonathan+Quick%22",
     "promoted_content": null,
-    "query": "%22PS3+emulation%22",
+    "query": "%22Jonathan+Quick%22",
     "tweet_volume": null
    },
    {
-    "name": "Burner",
-    "url": "http://twitter.com/search?q=Burner",
+    "name": "Deebo",
+    "url": "http://twitter.com/search?q=Deebo",
     "promoted_content": null,
-    "query": "Burner",
-    "tweet_volume": 18134
+    "query": "Deebo",
+    "tweet_volume": 13388
    },
    {
-    "name": "Gundam",
-    "url": "http://twitter.com/search?q=Gundam",
+    "name": "Sapnap",
+    "url": "http://twitter.com/search?q=Sapnap",
     "promoted_content": null,
-    "query": "Gundam",
-    "tweet_volume": 32427
+    "query": "Sapnap",
+    "tweet_volume": 17843
    },
    {
-    "name": "Istanbul",
-    "url": "http://twitter.com/search?q=Istanbul",
+    "name": "Gerrit Cole",
+    "url": "http://twitter.com/search?q=%22Gerrit+Cole%22",
     "promoted_content": null,
-    "query": "Istanbul",
-    "tweet_volume": 117143
-   },
-   {
-    "name": "Saylor",
-    "url": "http://twitter.com/search?q=Saylor",
-    "promoted_content": null,
-    "query": "Saylor",
+    "query": "%22Gerrit+Cole%22",
     "tweet_volume": null
    },
    {
-    "name": "Kyle Shanahan",
-    "url": "http://twitter.com/search?q=%22Kyle+Shanahan%22",
+    "name": "Jerry West",
+    "url": "http://twitter.com/search?q=%22Jerry+West%22",
     "promoted_content": null,
-    "query": "%22Kyle+Shanahan%22",
+    "query": "%22Jerry+West%22",
     "tweet_volume": null
    },
    {
-    "name": "Prince Philip",
-    "url": "http://twitter.com/search?q=%22Prince+Philip%22",
+    "name": "OG Cartoon Network",
+    "url": "http://twitter.com/search?q=%22OG+Cartoon+Network%22",
     "promoted_content": null,
-    "query": "%22Prince+Philip%22",
-    "tweet_volume": 14767
-   },
-   {
-    "name": "Merrick Garland",
-    "url": "http://twitter.com/search?q=%22Merrick+Garland%22",
-    "promoted_content": null,
-    "query": "%22Merrick+Garland%22",
-    "tweet_volume": 52317
-   },
-   {
-    "name": "John Wayne",
-    "url": "http://twitter.com/search?q=%22John+Wayne%22",
-    "promoted_content": null,
-    "query": "%22John+Wayne%22",
-    "tweet_volume": 123473
-   },
-   {
-    "name": "Zenos",
-    "url": "http://twitter.com/search?q=Zenos",
-    "promoted_content": null,
-    "query": "Zenos",
+    "query": "%22OG+Cartoon+Network%22",
     "tweet_volume": null
    },
    {
-    "name": "25th Amendment",
-    "url": "http://twitter.com/search?q=%2225th+Amendment%22",
+    "name": "Hamstring",
+    "url": "http://twitter.com/search?q=Hamstring",
     "promoted_content": null,
-    "query": "%2225th+Amendment%22",
-    "tweet_volume": 11275
-   },
-   {
-    "name": "Buhari",
-    "url": "http://twitter.com/search?q=Buhari",
-    "promoted_content": null,
-    "query": "Buhari",
-    "tweet_volume": 41560
-   },
-   {
-    "name": "Raskin",
-    "url": "http://twitter.com/search?q=Raskin",
-    "promoted_content": null,
-    "query": "Raskin",
-    "tweet_volume": 42945
-   },
-   {
-    "name": "Cherry Bomb",
-    "url": "http://twitter.com/search?q=%22Cherry+Bomb%22",
-    "promoted_content": null,
-    "query": "%22Cherry+Bomb%22",
+    "query": "Hamstring",
     "tweet_volume": null
    },
    {
-    "name": "Ernie Els",
-    "url": "http://twitter.com/search?q=%22Ernie+Els%22",
+    "name": "Alvarado",
+    "url": "http://twitter.com/search?q=Alvarado",
     "promoted_content": null,
-    "query": "%22Ernie+Els%22",
+    "query": "Alvarado",
     "tweet_volume": null
    },
    {
-    "name": "Weddle",
-    "url": "http://twitter.com/search?q=Weddle",
+    "name": "Bill O'Reilly",
+    "url": "http://twitter.com/search?q=%22Bill+O%27Reilly%22",
     "promoted_content": null,
-    "query": "Weddle",
+    "query": "%22Bill+O%27Reilly%22",
+    "tweet_volume": 15656
+   },
+   {
+    "name": "Arcia",
+    "url": "http://twitter.com/search?q=Arcia",
+    "promoted_content": null,
+    "query": "Arcia",
     "tweet_volume": null
    },
    {
-    "name": "and 70",
-    "url": "http://twitter.com/search?q=%22and+70%22",
+    "name": "Taurus",
+    "url": "http://twitter.com/search?q=Taurus",
     "promoted_content": null,
-    "query": "%22and+70%22",
-    "tweet_volume": 43251
+    "query": "Taurus",
+    "tweet_volume": 71325
    },
    {
-    "name": "FARC",
-    "url": "http://twitter.com/search?q=FARC",
+    "name": "N Eddy",
+    "url": "http://twitter.com/search?q=%22N+Eddy%22",
     "promoted_content": null,
-    "query": "FARC",
-    "tweet_volume": 59739
-   },
-   {
-    "name": "Flower Boy",
-    "url": "http://twitter.com/search?q=%22Flower+Boy%22",
-    "promoted_content": null,
-    "query": "%22Flower+Boy%22",
+    "query": "%22N+Eddy%22",
     "tweet_volume": null
    },
    {
-    "name": "Macron",
-    "url": "http://twitter.com/search?q=Macron",
+    "name": "Ayton",
+    "url": "http://twitter.com/search?q=Ayton",
     "promoted_content": null,
-    "query": "Macron",
-    "tweet_volume": 420299
-   },
-   {
-    "name": "MIDDLE AGED",
-    "url": "http://twitter.com/search?q=%22MIDDLE+AGED%22",
-    "promoted_content": null,
-    "query": "%22MIDDLE+AGED%22",
-    "tweet_volume": 19995
-   },
-   {
-    "name": "Shanghai",
-    "url": "http://twitter.com/search?q=Shanghai",
-    "promoted_content": null,
-    "query": "Shanghai",
-    "tweet_volume": 31350
-   },
-   {
-    "name": "Peter Doocy",
-    "url": "http://twitter.com/search?q=%22Peter+Doocy%22",
-    "promoted_content": null,
-    "query": "%22Peter+Doocy%22",
-    "tweet_volume": 34001
-   },
-   {
-    "name": "Julia Fox",
-    "url": "http://twitter.com/search?q=%22Julia+Fox%22",
-    "promoted_content": null,
-    "query": "%22Julia+Fox%22",
+    "query": "Ayton",
     "tweet_volume": null
    },
    {
-    "name": "Grooming",
-    "url": "http://twitter.com/search?q=Grooming",
+    "name": "Cam Johnson",
+    "url": "http://twitter.com/search?q=%22Cam+Johnson%22",
     "promoted_content": null,
-    "query": "Grooming",
-    "tweet_volume": 31656
-   },
-   {
-    "name": "Tim Tebow",
-    "url": "http://twitter.com/search?q=%22Tim+Tebow%22",
-    "promoted_content": null,
-    "query": "%22Tim+Tebow%22",
+    "query": "%22Cam+Johnson%22",
     "tweet_volume": null
    },
    {
-    "name": "Clint Eastwood",
-    "url": "http://twitter.com/search?q=%22Clint+Eastwood%22",
+    "name": "Joey Gallo",
+    "url": "http://twitter.com/search?q=%22Joey+Gallo%22",
     "promoted_content": null,
-    "query": "%22Clint+Eastwood%22",
-    "tweet_volume": 24693
+    "query": "%22Joey+Gallo%22",
+    "tweet_volume": null
    },
    {
-    "name": "Lillie",
-    "url": "http://twitter.com/search?q=Lillie",
+    "name": "Ja Morant",
+    "url": "http://twitter.com/search?q=%22Ja+Morant%22",
     "promoted_content": null,
-    "query": "Lillie",
+    "query": "%22Ja+Morant%22",
+    "tweet_volume": 13039
+   },
+   {
+    "name": "Kayleigh",
+    "url": "http://twitter.com/search?q=Kayleigh",
+    "promoted_content": null,
+    "query": "Kayleigh",
+    "tweet_volume": null
+   },
+   {
+    "name": "Memphis",
+    "url": "http://twitter.com/search?q=Memphis",
+    "promoted_content": null,
+    "query": "Memphis",
+    "tweet_volume": 22978
+   },
+   {
+    "name": "Tonight is the Night",
+    "url": "http://twitter.com/search?q=%22Tonight+is+the+Night%22",
+    "promoted_content": null,
+    "query": "%22Tonight+is+the+Night%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Miguel",
+    "url": "http://twitter.com/search?q=Miguel",
+    "promoted_content": null,
+    "query": "Miguel",
+    "tweet_volume": 126956
+   },
+   {
+    "name": "Playoff Jimmy",
+    "url": "http://twitter.com/search?q=%22Playoff+Jimmy%22",
+    "promoted_content": null,
+    "query": "%22Playoff+Jimmy%22",
     "tweet_volume": null
    }
   ],
-  "as_of": "2022-03-29T13:36:00Z",
-  "created_at": "2022-03-27T12:34:28Z",
+  "as_of": "2022-04-20T05:09:53Z",
+  "created_at": "2022-04-18T08:05:00Z",
   "locations": [
    {
     "name": "Denver",
